@@ -21,5 +21,6 @@ A demo project built with Visual Studio's stand-alone React with TypeScript temp
 }
 ```
 
-###### VIDEO - Launch the application in Debug Mode from VS 2022....TODO
+###### VIDEO - Launch the application in Debug Mode from VS 2022.
+https://github.com/Aoa77/React-vs-web-demo/assets/4643190/6f28486b-afce-4296-9f75-6dd5093c5648
 
