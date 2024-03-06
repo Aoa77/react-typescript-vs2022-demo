@@ -1,5 +1,5 @@
 # React v18 demo
-A demo project built w ithVisual Studio's stand-alone React with Typescript template. 
+A demo project built with Visual Studio's stand-alone React with Typescript template. 
 
 ###### Package version info
 ```
