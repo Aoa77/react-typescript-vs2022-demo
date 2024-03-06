@@ -1,5 +1,5 @@
 # React v18 demo
-A demo project built with Visual Studio's stand-alone React with Typescript template. This solution uses React v18.2.0, TypeScript v5.2.2, and Vite v5.1.4.
+A demo project built with Visual Studio's stand-alone React with Typescript template.
 
 ###### Package version info
 ```
